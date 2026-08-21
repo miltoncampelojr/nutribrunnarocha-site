@@ -1,5 +1,3 @@
-/blog            /blog.html            301
-/blog/           /blog.html            301
-/blog/*          /:splat               301
-/artigos         /blog.html            301
-/artigos/*       /:splat               301
+/blog/*     /:splat     301
+/artigos    /blog       301
+/artigos/*  /:splat     301
