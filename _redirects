@@ -1,3 +1,5 @@
+/site-brunna-rocha       /          301
+/site-brunna-rocha/*     /:splat    301
 /blog/*     /:splat     301
 /artigos    /blog       301
 /artigos/*  /:splat     301
